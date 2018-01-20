@@ -1,0 +1,4 @@
+
+public interface GenericT {
+	
+}
